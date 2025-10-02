@@ -45,5 +45,11 @@
 	<true/>
 	<key>UIApplicationSupportsIndirectInputEvents</key>
 	<true/>
+	<!-- Permisos de ubicación -->
+    <key>NSLocationWhenInUseUsageDescription</key>
+    <string>MegaApp necesita tu ubicación para mostrarte buses cercanos</string>
+    
+    <key>NSLocationAlwaysAndWhenInUseUsageDescription</key>
+    <string>MegaApp necesita tu ubicación para tracking en tiempo real</string>
 </dict>
 </plist>
